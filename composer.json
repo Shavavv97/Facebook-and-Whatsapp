@@ -1,0 +1,11 @@
+{
+    "name": "salvador/react-native",
+    "description": "Aplicacion con react native",
+    "authors": [
+        {
+            "name": "Salvador Vidal",
+            "email": "salvador.vidalm97@gmail.com"
+        }
+    ],
+    "require": {}
+}
